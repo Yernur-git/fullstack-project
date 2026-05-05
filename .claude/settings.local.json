@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/yernur/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/fae7a2e8-8482-4481-9a0f-538bc81fc436/19cb1e08-bd7e-4d6e-9c6e-849aebe05a48/skills/pptx/**)",
+      "Bash(python scripts/extract-text.py \"C:\\\\Users\\\\yernur\\\\Downloads\\\\Responsive Web Design \\(1\\).pptx\")",
+      "Bash(python -c ' *)",
+      "Bash(pip install *)"
+    ]
+  }
+}
